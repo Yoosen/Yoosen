@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Yoosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoosen&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosen&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
