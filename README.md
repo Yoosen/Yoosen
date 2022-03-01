@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yoosen/Yoosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,18 +13,63 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/git-header.svg" width="500"/>
+<!-- header start -->
+### Hi，<img src="https://github.com/KiLien/Pics/blob/main/Hi.gif" width="24px" alt="hi"> I'm Yoosen (余生)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yoosen&count_private=true&show_icons=true&hide=contribs" alt="Yoosen's GitHub stats" width="300" />
+![Profile views](https://gpvc.arturio.dev/Yoosen)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosen&layout=compact)
+<!-- header end -->
 
-<!--START_SECTION:waka-->
+<!-- body start -->
 
-```text
-Java   3 hrs 27 mins   █████████████████████████   99.97 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
 
-<!--END_SECTION:waka-->
+<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/Programming-amico.svg" width="400"/>
+
+
+<!-- About Me start -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
+- 🔭 &nbsp; I’m currently studying at **Northwestern Polytechnical University**
+- 🌱 &nbsp; I’m currently learning **Java**; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yoosen).
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+<!-- About Me end -->
+---
+
+
+
+<!-- Github Profile start -->
+<details>    
+  <br />
+  <summary><b>🌟 Github Profile</b></summary>
+  <img height="320em" width="450em" src="https://metrics.lecoq.io/Yoosen" />
+</details>
+<!-- Github Profile end -->
+
+<!-- Github Stats start -->
+<details>    
+  <br />
+  <summary><b>✨ Github Stats</b></summary>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+  
+  <!--START_SECTION:waka-->
+
+  ```text
+  Java   3 hrs 27 mins   █████████████████████████   99.97 %
+  XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+  CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+  ```
+
+  <!--END_SECTION:waka-->
+</details>
+<!-- Github Stats end -->
+
+<details>    
+  <br />
+  <summary><b>☄️ GitHub Streak</b></summary>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoosen" />
+</details>
