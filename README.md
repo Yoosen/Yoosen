@@ -19,4 +19,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosen&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```text
+Java   3 hrs 27 mins   █████████████████████████   99.97 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
