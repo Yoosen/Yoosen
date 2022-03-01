@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!-- Github Profile start -->
 <details>
   <summary><b>🌟 Github Profile</b></summary>
-  <img height="285em" width="400em" src="https://metrics.lecoq.io/Yoosen" />
+  <img height="320em" width="450em" src="https://metrics.lecoq.io/Yoosen" />
 </details>
 <!-- Github Profile end -->
 
