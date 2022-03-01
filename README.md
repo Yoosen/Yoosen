@@ -56,6 +56,10 @@ Here are some ideas to get you started:
   
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
   
+  <br />
+  <br />
+  
+  📊 &nbsp;**This week I spent my time on**
   <!--START_SECTION:waka-->
 
   ```text
