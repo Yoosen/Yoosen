@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/git-header.svg" width="500" height="320" />
+
 ![Yoosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoosen&count_private=true&show_icons=true&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosen&layout=compact)
