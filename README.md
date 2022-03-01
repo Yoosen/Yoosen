@@ -41,15 +41,14 @@ Here are some ideas to get you started:
 
 
 <!-- Github Profile start -->
-<details>    
-  <br />
+<details>
   <summary><b>🌟 Github Profile</b></summary>
   <img height="320em" width="450em" src="https://metrics.lecoq.io/Yoosen" />
 </details>
 <!-- Github Profile end -->
 
 <!-- Github Stats start -->
-<details>    
+<details>
   <br />
   <summary><b>✨ Github Stats</b></summary>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -68,8 +67,12 @@ Here are some ideas to get you started:
 </details>
 <!-- Github Stats end -->
 
-<details>    
+<!-- GitHub Streak start -->
+<details>
   <br />
   <summary><b>☄️ GitHub Streak</b></summary>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoosen" />
 </details>
+<!-- GitHub Streak end -->
+
+<!-- body end -->
