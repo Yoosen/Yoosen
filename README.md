@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/git-header.svg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/git-header.svg" width="500"/>
 
-![Yoosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoosen&count_private=true&show_icons=true&hide=contribs)
+<img src="https://github-readme-stats.vercel.app/api?username=Yoosen&count_private=true&show_icons=true&hide=contribs" alt="Yoosen's GitHub stats" width="300" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosen&layout=compact)
 
