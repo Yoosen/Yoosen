@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <!-- body start -->
 
 
-<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/Programming-amico.svg" width="400"/>
+<!-- img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/Programming-amico.svg" width="400" -->
+<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/code.gif?raw=true" width="500" height="320"/>
 
 
 <!-- About Me start -->
