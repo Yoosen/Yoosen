@@ -60,15 +60,8 @@ Here are some ideas to get you started:
   <br />
   
   📊 &nbsp;**This week I spent my time on**
-  <!--START_SECTION:waka-->
-
-```text
-Java   6 hrs 25 mins   █████████████████████████   99.98 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
+  
+  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 </details>
 <!-- Github Stats end -->
 
