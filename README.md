@@ -52,14 +52,12 @@ Here are some ideas to get you started:
 <details>
   <br />
   <summary><b>✨ Github Stats</b></summary>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
   
   <br />
   <br />
-  
-  📊 &nbsp;**This week I spent my time on**
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2053%20mins-blue)
