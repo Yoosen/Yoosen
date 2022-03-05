@@ -6,7 +6,7 @@ on:
       - main
       
   schedule:
-    - cron:  '37 2 * * *'
+    - cron:  '0 19 * * *'
   
 jobs:
   update-readme:
