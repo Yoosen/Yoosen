@@ -60,28 +60,26 @@ Here are some ideas to get you started:
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2053%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     13 hrs 49 mins      █████████████████████████   99.99% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Java                     18 hrs 16 mins      █████████████████████████   99.99% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-IntelliJ                 13 hrs 49 mins      █████████████████████████   100.0%
+IntelliJ                 18 hrs 16 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  13 hrs 49 mins      █████████████████████████   100.0%
+Windows                  18 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/03/2022 01:41:05 UTC
+ Last Updated on 05/03/2022 01:24:18 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
