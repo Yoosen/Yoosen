@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
 -->
 
 <!-- header start -->
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <!-- img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/Programming-amico.svg" width="400" -->
-<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/code.gif?raw=true" width="450" height="300"/>
+<img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/git-header.svg" width="500" height="350"/>
 
 
 <!-- About Me start -->
@@ -34,7 +36,6 @@ Here are some ideas to get you started:
 - 🔭 &nbsp; I’m currently studying at **Northwestern Polytechnical University**
 - 🌱 &nbsp; I’m currently learning **Java**; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yoosen).
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 <!-- About Me end -->
 ---
