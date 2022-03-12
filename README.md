@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 &nbsp; I’m currently studying at **Northwestern Polytechnical University**
-- 🌱 &nbsp; I’m currently learning **Java**; 
+- 🌱 &nbsp; I’m currently learning **C++** and **Java**; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yoosen).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 <!-- About Me end -->
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 
 <!-- Github Profile start -->
-<details>
-  <summary><b>🌟 Github Profile</b></summary>
-  <img height="320em" width="450em" src="https://metrics.lecoq.io/Yoosen" />
-</details>
+<!-- <details> -->
+<!--   <summary><b>🌟 Github Profile</b></summary> -->
+<!--   <img height="320em" width="450em" src="https://metrics.lecoq.io/Yoosen" /> -->
+<!-- </details> -->
 <!-- Github Profile end -->
 
 <!-- Github Stats start -->
