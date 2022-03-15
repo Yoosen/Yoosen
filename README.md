@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <!-- img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/Programming-amico.svg" width="400" -->
 <img align="right" alt="GIF" src="https://github.com/Yoosen/Yoosen/blob/main/git-header.svg" width="500" height="350"/>
+ <br />
+ <br />
 
 
 <!-- About Me start -->
@@ -53,7 +55,7 @@ Here are some ideas to get you started:
 <details>
   <br />
   <summary><b>✨ Github Stats</b></summary>
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="170em" align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
   
