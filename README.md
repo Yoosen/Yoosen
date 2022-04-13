@@ -66,27 +66,28 @@ Here are some ideas to get you started:
   <br />
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     19 hrs 21 mins      ███████████████████░░░░░░   75.99% 
-C++                      6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Java                     19 hrs 17 mins      ██████████████████░░░░░░░   75.45% 
+C++                      6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.47% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-IntelliJ                 19 hrs 21 mins      ███████████████████░░░░░░   75.99% 
-Sublime Text             6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01%
+IntelliJ                 19 hrs 17 mins      ██████████████████░░░░░░░   75.45% 
+Sublime Text             6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55%
 
 💻 Operating System: 
-Windows                  25 hrs 28 mins      █████████████████████████   100.0%
+Windows                  25 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/04/2022 19:20:49 UTC
+ Last Updated on 13/04/2022 19:21:27 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
