@@ -66,24 +66,26 @@ Here are some ideas to get you started:
   <br />
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 5 mins        █████████████████████████   100.0%
+C++                      2 hrs 45 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Sublime Text             2 hrs 5 mins        █████████████████████████   100.0%
+Sublime Text             2 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.0%
+Windows                  2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/05/2022 19:21:31 UTC
+ Last Updated on 07/05/2022 19:23:03 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
