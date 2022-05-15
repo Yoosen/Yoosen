@@ -90,7 +90,7 @@ Windows                  10 hrs 30 mins      ███████████�
 ```
 
 
- Last Updated on 14/05/2022 19:21:52 UTC
+ Last Updated on 15/05/2022 19:22:05 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
