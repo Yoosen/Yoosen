@@ -52,18 +52,18 @@ Here are some ideas to get you started:
 <!-- Github Profile end -->
 
 <!-- Github Stats start -->
-<details>
-  <br />
-  <summary><b>✨ Github Stats</b></summary>
+## ✨ Github Stats
 <!--   <img height="170em" align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
   
 <!--   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" /> -->
+  ![Github contributions snake game](https://raw.githubusercontent.com/Yoosen/Yoosen/output/github-contribution-grid-snake.svg) 
  
  | <a href="https://github.com/yoosen/github-readme-stats"><img height="170em" align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Yoosen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></a> |
 | ------------- | ------------- |
  
   <br />
   <br />
+
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -94,15 +94,12 @@ Windows                  15 hrs 41 mins      ███████████�
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
-</details>
+
 <!-- Github Stats end -->
 
 <!-- GitHub Streak start -->
-<details>
-  <br />
-  <summary><b>☄️ GitHub Streak</b></summary>
+## ☄️ GitHub Streak
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoosen" />
-</details>
 <!-- GitHub Streak end -->
 
 <!-- body end -->
