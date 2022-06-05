@@ -87,7 +87,7 @@ Windows                  6 hrs 7 mins        ███████████�
 ```
 
 
- Last Updated on 04/06/2022 19:19:40 UTC
+ Last Updated on 05/06/2022 19:21:01 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
