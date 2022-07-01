@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!--   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" /> -->
   ![Github contributions snake game](https://raw.githubusercontent.com/Yoosen/Yoosen/output/github-contribution-grid-snake.svg) 
  
- | <a href="https://github.com/yoosen/github-readme-stats"><img height="170em" align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Yoosen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></a> |
+ | <a href="https://github.com/yoosen/github-readme-stats"><img height="170em" align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Yoosen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Yoosen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosen&show_icons=true&hide_border=true&layout=compact&langs_count=6&hide=HTML,CSS,JavaScript,SCSS" /></a> |
 | ------------- | ------------- |
  
   <br />
