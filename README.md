@@ -72,18 +72,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 7 mins         █████████████████████████   100.0%
+C++                      4 hrs 46 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Sublime Text             1 hr 7 mins         █████████████████████████   100.0%
+CLion                    4 hrs 45 mins       █████████████████████████   99.57% 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.0%
+Windows                  4 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/08/2022 19:21:30 UTC
+ Last Updated on 18/08/2022 19:24:05 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
