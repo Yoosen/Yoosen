@@ -83,7 +83,7 @@ Windows                  14 mins             ███████████�
 ```
 
 
- Last Updated on 09/02/2023 19:20:29 UTC
+ Last Updated on 10/02/2023 19:20:06 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
