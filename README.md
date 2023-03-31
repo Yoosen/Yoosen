@@ -66,24 +66,25 @@ Here are some ideas to get you started:
 
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      37 mins             ███████████████████████░░   90.59 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+C++                      5 mins              ██████████████░░░░░░░░░░░   56.16 % 
+JSON                     3 mins              ███████████░░░░░░░░░░░░░░   43.84 % 
 
 🔥 Editors: 
-Sublime Text             41 mins             █████████████████████████   100.00 % 
+Sublime Text             4 mins              █████████████░░░░░░░░░░░░   53.66 % 
+VS Code                  4 mins              ████████████░░░░░░░░░░░░░   46.34 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/03/2023 19:14:05 UTC
+ Last Updated on 31/03/2023 19:14:20 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
