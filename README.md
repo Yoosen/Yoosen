@@ -72,17 +72,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr                █████████████████████████   100.00 % 
+Markdown                 1 hr 13 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 1 hr                █████████████████████████   100.00 % 
+Obsidian                 1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2023 19:14:27 UTC
+ Last Updated on 10/05/2023 19:17:10 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
