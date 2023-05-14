@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- header start -->
-### Hi，<img src="https://github.com/Yoosen/Yoosen/blob/main/Hi.gif" width="24" alt="hi"> I'm Yoosen (余生)
+### Hi，<img src="https://github.com/Yoosen/Yoosen/blob/main/Hi.gif" width="24" alt="hi"> I'm Yoosen
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Yoosen) -->
 
