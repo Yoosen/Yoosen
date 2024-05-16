@@ -72,17 +72,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 15 mins        ████████████████████░░░░░   79.88 % 
+XML                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/05/2024 19:15:30 UTC
+ Last Updated on 16/05/2024 19:15:02 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
