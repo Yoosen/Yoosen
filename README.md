@@ -68,8 +68,25 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-584.6%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/08/2024 19:17:17 UTC
+```text
+💬 Programming Languages: 
+Java                     4 hrs 41 mins       ████████████████░░░░░░░░░   65.92 % 
+XML                      2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editors: 
+IntelliJ IDEA            7 hrs 7 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/08/2024 19:16:15 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
