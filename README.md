@@ -66,27 +66,27 @@ Here are some ideas to get you started:
 
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.39 % 
-XML                      3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.81 % 
-YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Java                     6 hrs 30 mins       █████████████░░░░░░░░░░░░   53.93 % 
+XML                      3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
+YAML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 18 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            12 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/11/2024 19:17:54 UTC
+ Last Updated on 24/11/2024 19:18:53 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
