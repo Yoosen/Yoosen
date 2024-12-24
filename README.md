@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-- 🔭 &nbsp; I’m currently studying at **Northwestern Polytechnical University**
+- 🔭 &nbsp; I’m currently working on **ABC**
 - 🌱 &nbsp; I’m currently learning **C++** and **Java**; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yoosen).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
