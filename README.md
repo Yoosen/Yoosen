@@ -67,28 +67,8 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-601.0%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Vue.js                   5 hrs 12 mins       ████████████████░░░░░░░░░   62.95 % 
-TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Java                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🔥 Editors: 
-Cursor                   5 hrs 32 mins       █████████████████░░░░░░░░   67.01 % 
-VS Code                  2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-IntelliJ IDEA            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-
-💻 Operating System: 
-Mac                      7 hrs 25 mins       ██████████████████████░░░   89.76 % 
-Linux                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-```
-
-
- Last Updated on 02/01/2025 19:17:17 UTC
+ Last Updated on 03/01/2025 19:17:38 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
