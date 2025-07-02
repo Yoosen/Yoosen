@@ -71,18 +71,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              ███████████████████████░░   92.90 % 
-XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/07/2025 19:20:36 UTC
+ Last Updated on 02/07/2025 19:20:51 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
