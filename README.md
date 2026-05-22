@@ -71,21 +71,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    6 mins              ███████████████████░░░░░░   75.54 % 
-HTML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    6 mins              ███████████████░░░░░░░░░░   59.04 % 
+INI                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+HTML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Trae                     8 mins              █████████████████████████   100.00 % 
+Trae                     10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/05/2026 20:52:51 UTC
+ Last Updated on 22/05/2026 20:44:18 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
