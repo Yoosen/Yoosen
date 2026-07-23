@@ -71,19 +71,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Swift                    2 hrs 7 mins        ███████████████████████░░   91.79 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Swift                    5 hrs 27 mins       ███████████████████████░░   92.85 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 20:16:26 UTC
+ Last Updated on 23/07/2026 20:17:58 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
