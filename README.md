@@ -65,25 +65,23 @@ Here are some ideas to get you started:
 
   
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-616.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Swift                    8 hrs 17 mins       ████████████████████████░   95.18 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Swift                    10 hrs 10 mins      ███████████████████████░░   93.57 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +91,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 20:26:38 UTC
+ Last Updated on 28/07/2026 20:21:03 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
