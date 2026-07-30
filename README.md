@@ -73,17 +73,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Swift                    8 hrs 33 mins       ███████████████████████░░   90.52 % 
-Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Swift                    5 hrs 32 mins       ██████████████████████░░░   87.01 % 
+Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 20:15:19 UTC
+ Last Updated on 30/07/2026 20:19:28 UTC
 <!--END_SECTION:waka-->
   
 <!--   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yoosen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
