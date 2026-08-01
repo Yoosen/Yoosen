@@ -41,7 +41,12 @@ Here are some ideas to get you started:
 ---
 
 <!-- Github Stats start -->
-## ✨ Github Stats
+
+##  📈 Github Statistics
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yoosen/Yoosen/output/snake/github-contribution-grid-snake.svg"/>
+</div>
 
 ![Github contributions snake game](https://raw.githubusercontent.com/Yoosen/Yoosen/output/github-contribution-grid-snake.svg) 
 
@@ -79,12 +84,5 @@ Last Updated on 31/07/2026 20:24:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
-
-<!-- GitHub Streak start -->
-## ☄️ GitHub Streak
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoosen" />
-
-<!-- GitHub Streak end -->
 
 <!-- body end -->
