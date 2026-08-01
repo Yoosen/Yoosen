@@ -1,7 +1,7 @@
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Yoosen/Yoosen/main/git-header.svg" width="100%"/>
- <br />
- <br />
+ 
+<p align="center">
+  <img alt="GIF" src="https://raw.githubusercontent.com/Yoosen/Yoosen/main/git-header.svg" style="display:block;margin:0 auto;max-width:480px;width:100%;height:auto;" />
+</p>
 
 <!-- Github Stats start -->
 
