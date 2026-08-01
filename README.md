@@ -23,17 +23,17 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    2 hrs 53 mins       ███████████████████░░░░░░   76.63 % 
-Git Config               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Swift                    3 hrs 16 mins       █████████████████░░░░░░░░   68.58 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -42,7 +42,8 @@ Mac                      3 hrs 45 mins       ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-Last Updated on 31/07/2026 20:24:02 UTC
+
+ Last Updated on 01/08/2026 20:12:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
