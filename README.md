@@ -47,4 +47,4 @@ Last Updated on 31/07/2026 20:24:02 UTC
 
 <!-- Github Stats end -->
 
-<!-- body end -->
+![:name](https://count.getloli.com/@Yoosen?name=Yoosen&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
