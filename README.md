@@ -43,10 +43,11 @@ Here are some ideas to get you started:
 <!-- Github Stats start -->
 
 ##  📈 Github Statistics
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yoosen/Yoosen/output/snake/github-contribution-grid-snake.svg"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![Github contributions snake game](https://raw.githubusercontent.com/Yoosen/Yoosen/output/github-contribution-grid-snake.svg) 
 
