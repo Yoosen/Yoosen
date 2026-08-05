@@ -23,18 +23,18 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    1 hr 41 mins        █████████████░░░░░░░░░░░░   52.02 % 
-Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Git Config               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Swift                    2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.89 % 
+Markdown                 1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.73 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        ████████████████████████░   97.22 % 
-PyCharm                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+VS Code                  4 hrs 47 mins       █████████████████████████   98.15 % 
+PyCharm                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,7 +44,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2026 20:37:36 UTC
+ Last Updated on 05/08/2026 20:36:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
