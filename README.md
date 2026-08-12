@@ -23,26 +23,26 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 39 mins       █████████████░░░░░░░░░░░░   53.58 % 
-Swift                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Markdown                 3 hrs 21 mins       ██████████████░░░░░░░░░░░   55.02 % 
+JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Swift                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Git Config               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 35 mins       █████████████████████████   99.02 % 
-IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+VS Code                  6 hrs 1 min         █████████████████████████   98.60 % 
+IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Mac                      8 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (1.54%)
+⏱ AI Coding Time: 8 mins (2.18%)
 
-✍️ 58 lines written by AI, 213 lines written by hand (21.4% AI-written)
+✍️ 58 lines written by AI, 184 lines written by hand (23.97% AI-written)
 
 🔤 70,475 Input Tokens, 12,346 Output Tokens
 
@@ -53,14 +53,14 @@ Mac                      8 hrs 40 mins       ███████████�
 GPT                      62 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.4% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 23.97% of written lines came from AI
 📝 Concise Prompter — average 76 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 88.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 20:01:53 UTC
+ Last Updated on 12/08/2026 20:02:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
