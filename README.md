@@ -23,28 +23,44 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Bash                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Markdown                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Git Config               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Swift                    3 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.19 % 
+TypeScript               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Git Config               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       ████████████████████████░   94.84 % 
-PyCharm                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+VS Code                  4 hrs 41 mins       ██████████████████░░░░░░░   73.24 % 
+CLI                      1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
 
 💻 Operating System: 
-Mac                      4 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 52 mins (29.32%)
+
+✍️ 0 lines written by AI, 280 lines written by hand (0.0% AI-written)
+
+🔤 16,731,428 Input Tokens, 96,927 Output Tokens
+
+💵 $56.04 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 150 AI Prompts
+
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 755 characters per prompt
+🔁 Iterative Prompter — average 50 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 19:31:57 UTC
+ Last Updated on 20/08/2026 19:37:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
