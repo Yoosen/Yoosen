@@ -23,47 +23,48 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    4 hrs 52 mins       ███████████████████████░░   90.26 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Swift                    2 hrs 57 mins       █████████████████░░░░░░░░   68.87 % 
+Markdown                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       ██████████████████████░░░   88.00 % 
-Codex Vscode             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+VS Code                  3 hrs 39 mins       █████████████████████░░░░   84.93 % 
+Codex Vscode             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Cursor                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Mac                      5 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 56 mins (72.82%)
+⏱ AI Coding Time: 1 hr 52 mins (43.37%)
 
-✍️ 683 lines written by AI, 280 lines written by hand (70.92% AI-written)
+✍️ 409 lines written by AI, 260 lines written by hand (61.14% AI-written)
 
-🔤 2,133,520 Input Tokens, 343,389 Output Tokens
+🔤 1,462,574 Input Tokens, 223,417 Output Tokens
 
-💵 $189.59 Estimated AI Cost This Week
+💵 $118.22 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 34 AI Prompts
+🧠 7 AI Sessions, 18 AI Prompts
 
-Opencode-Cli             866 lines           ███████████████████████░░   92.23 % 
-GPT                      54 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Grok                     19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Opencode-Cli             491 lines           ██████████████████████░░░   87.06 % 
+GPT                      54 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Grok                     19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.92% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
+⚖️ Balanced with AI — 61.14% of written lines came from AI
+📝 Concise Prompter — average 149 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 25.59% of changed lines were hand-edited
+🚀 High AI Trust — 34.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 02:02:49 UTC
+ Last Updated on 29/08/2026 21:37:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
