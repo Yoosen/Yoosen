@@ -23,34 +23,33 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 42 mins             ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-TypeScript               41 mins             ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Swift                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 42 mins             ██████████░░░░░░░░░░░░░░░   40.93 % 
+Swift                    28 mins             ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (31.62%)
+⏱ AI Coding Time: 1 min (1.97%)
 
-✍️ 0 lines written by AI, 185 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 158 lines written by hand (0.0% AI-written)
 
-🔤 62,831,059 Input Tokens, 103,947 Output Tokens
+🔤 442,102 Input Tokens, 23,285 Output Tokens
 
-💵 $488.11 Estimated AI Cost This Week
+💵 $126.10 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 0 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -60,7 +59,7 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/09/2026 21:22:50 UTC
+ Last Updated on 14/09/2026 22:24:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
