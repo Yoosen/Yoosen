@@ -23,15 +23,13 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 25 mins             ███████████████░░░░░░░░░░   61.45 % 
-Other                    16 mins             ██████████░░░░░░░░░░░░░░░   38.52 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -41,7 +39,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2026 22:01:54 UTC
+ Last Updated on 17/09/2026 22:02:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
