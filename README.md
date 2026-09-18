@@ -23,23 +23,43 @@
 
 ```text
 💬 Programming Languages: 
-Other                    16 mins             █████████████████████████   100.00 % 
+Other                    24 mins             ████████████████████░░░░░   81.66 % 
+Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
+ZCode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 24 mins (82.85%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 20,245,500 Input Tokens, 347,886 Output Tokens
+
+💵 $123.98 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 0 AI Prompts
+
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 22:02:04 UTC
+ Last Updated on 18/09/2026 21:35:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
