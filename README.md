@@ -23,32 +23,31 @@
 
 ```text
 💬 Programming Languages: 
-Other                    24 mins             ████████████████████░░░░░   81.66 % 
-Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Markdown                 4 mins              ███████████████████████░░   90.96 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 ZCode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (82.85%)
+⏱ AI Coding Time: 0 secs (9.04%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 20,245,500 Input Tokens, 347,886 Output Tokens
+🔤 113,324 Input Tokens, 1,862 Output Tokens
 
-💵 $123.98 Estimated AI Cost This Week
+💵 $0.40 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 0 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -59,7 +58,7 @@ Grok                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/09/2026 21:35:00 UTC
+ Last Updated on 19/09/2026 21:23:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
