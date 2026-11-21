@@ -23,41 +23,39 @@
 
 ```text
 💬 Programming Languages: 
-Other                    53 mins             █████████████████████████   100.00 % 
+Other                    17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   99.54 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (100.0%)
+⏱ AI Coding Time: 17 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 12,723 Input Tokens, 1,049 Output Tokens
+🔤 2,268 Input Tokens, 385 Output Tokens
 
-💵 $0.05 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 39 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/11/2026 00:43:52 UTC
+ Last Updated on 21/11/2026 23:45:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- Github Stats end -->
